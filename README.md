@@ -26,3 +26,7 @@ atmosphere.
 ● Through our Data Collection Nodes we tend to develop Internet of Vehicles which shall generate a framework
 for efficient traffic management as we are monitoring traffic at ground level and not at satellite level.
 The same system shall involve a method to recover stolen vehicles and catch respective thieves.
+
+Following is the open acces Google Drive link for server side and client side files(There were in total 1400 files 
+including packages hence cannot be included directly) :-
+https://drive.google.com/drive/folders/1owDgnfLUrExSK4lyIltaVKhkWzMmCZZM?usp=sharing
