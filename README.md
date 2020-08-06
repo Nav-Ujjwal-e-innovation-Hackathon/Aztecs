@@ -30,3 +30,7 @@ The same system shall involve a method to recover stolen vehicles and catch resp
 Following is the open acces Google Drive link for server side and client side files(There were in total 1400 files 
 including packages hence cannot be included directly) :-
 https://drive.google.com/drive/folders/1owDgnfLUrExSK4lyIltaVKhkWzMmCZZM?usp=sharing
+
+We have taken dataset from Kaggle for Machine Learning Models :-
+1) Smart City Traffic : kaggle datasets download -d utathya/smart-city-traffic-patterns
+2) Emergency Vehicle Classification : kaggle datasets download -d abhisheksinghblr/emergency-vehicles-identification
